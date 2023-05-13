@@ -15,9 +15,17 @@ header{
     height:100px;
 }
 
+header h1 {
+    display: inline-block;
+    float: left;
+    
+}
+
+
 nav{
     float:right;   
 }
+
 
 nav ul{
     margin:10px;
@@ -59,6 +67,36 @@ nav a:hover::before{
     width:100%;
 }
 
+.heroImage{
+    background-image: url(https://media.istockphoto.com/id/1089621680/photo/mystical-purple-steam-on-a-dark-background-cloud-close-up.jpg?s=170667a&w=0&k=20&c=x2YtOpLmaM4DvsMQIIYy5iz6LAPqOkoflIcyj-OrhNI=);
+    background-size: cover;
+    height:50vh;
+    position: relative;
+    background-repeat: no-repeat;
+    margin: 0;
+
+}
+
+.heroText{
+    position:relative;
+    color:white;
+    font-weight: 100;
+    
+}
+
+.heroText h1{
+    text-align: left;
+    padding-top: 50px;
+    padding-left: 50px ;
+    text-decoration: overline;
+}
+
+.heroText h2{
+    text-align: right;
+    padding-top: 225px;
+    padding-right: 75px;
+    text-decoration: underline;
+}
 .bioImage{
     margin-left: auto;
     margin-right: auto;
