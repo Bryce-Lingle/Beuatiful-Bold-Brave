@@ -116,8 +116,15 @@ nav a:hover::before{
     margin-top: 15px;
     margin-bottom: 15px;
     text-align: center;
-    max-width: 80% 
+    max-width: 80%;
 }
+
+
+.aboutMe p {
+    font-size: 25px;
+}
+
+
 
 .projectBox1{
     width: 75%;
@@ -129,4 +136,18 @@ nav a:hover::before{
     margin-left: auto;
     margin-right: auto;
     
+}
+
+.h1{
+    font-size: 50px;
+    font-weight: 100;
+    text-decoration: underline;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+hr{
+   margin-top: 30px;
+   margin-bottom: 30px;
 }
