@@ -114,8 +114,6 @@ img{
     max-width: 250px;
     float: left;
     margin-right: 15px;
-
-
 }
 
 .aboutMe{
@@ -173,13 +171,39 @@ img{
     font-weight: 100;
     text-decoration: underline;
     margin-top: 15px;
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center;
+    margin-left: 50px;
+
 }
 
 .h2portfolio{
-    text-align: center;
     font-weight: 100;
 }
 
+.contactMe{
+    background-color: rgb(135, 29, 161);
+    height:200px;
+
+}
+
+h2{
+ text-align: center;
+ font-weight: 300;
+ font-size: 40px;
+ text-decoration: underline;
+ color:white
+}
+
+.askMe{
+    text-align: center;
+    margin-top: 15px;
+    color:white;
+}
+
+.contactMe ul{
+    display: inline-block;
+    color: white;
+    float: right;
+    font-size: 30px;
+    list-style: none;
+    margin-right: 30px;
+}
