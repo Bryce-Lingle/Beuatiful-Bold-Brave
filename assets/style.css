@@ -3,12 +3,17 @@
     margin: 0;
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
 body{
     background:rgb(180, 178, 178);
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-weight: 100;
     margin: 0;
 }
+
 
 
 nav h1 {
@@ -71,6 +76,8 @@ nav a::before {
 nav a:hover::before{
     width:100%;
 }
+
+
 
 .heroImage{
     background-image: url(https://media.istockphoto.com/id/1089621680/photo/mystical-purple-steam-on-a-dark-background-cloud-close-up.jpg?s=170667a&w=0&k=20&c=x2YtOpLmaM4DvsMQIIYy5iz6LAPqOkoflIcyj-OrhNI=);
