@@ -211,10 +211,9 @@ h2{
 }
 
 .contactMe ul{
-    display: inline-block;
     color: white;
     float: right;
-    font-size: 23px;
+    font-size: 21px;
     list-style: none;
     margin-right: 30px;
 }
