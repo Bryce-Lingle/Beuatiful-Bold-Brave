@@ -144,13 +144,14 @@ img{
 
 .portfolioContainer{
     display:flex;
-    flex: column;
     flex-wrap: wrap;
-    flex-flow: column wrap;  
+    justify-content: space-evenly;
+    min-width: 100px;
+    flex-basis: 20%;
 }
 
 .projectBox1{
-    width:80%;
+    width:50%;
     height:150px;
     border-style: solid;
     border-color: rgb(135, 29, 161);
@@ -159,6 +160,11 @@ img{
     margin-right:auto;
     margin-top: 50px;
     margin-bottom: 50px;
+    font-size: 100px;
+}
+
+.button:active{
+    box-shadow: 2px 2px 5px;
 }
 
 
@@ -170,5 +176,10 @@ img{
     margin-left: auto;
     margin-right: auto;
     text-align: center;
+}
+
+.h2portfolio{
+    text-align: center;
+    font-weight: 100;
 }
 
