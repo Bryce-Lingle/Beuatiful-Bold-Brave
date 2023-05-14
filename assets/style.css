@@ -14,7 +14,18 @@ body{
     margin: 0;
 }
 
+.container-nav{
+    display:flex;
+}
 
+@media screen {.container-nav{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    max-width: 400px;
+}
+    
+}
 
 nav h1 {
     float:left;
@@ -203,7 +214,7 @@ h2{
     display: inline-block;
     color: white;
     float: right;
-    font-size: 30px;
+    font-size: 23px;
     list-style: none;
     margin-right: 30px;
 }
