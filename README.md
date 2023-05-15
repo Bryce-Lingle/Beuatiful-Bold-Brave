@@ -15,4 +15,4 @@ Image
 Link
 Come see my page! https://bryce-lingle.github.io/Beuatiful-Bold-Brave/
 
-GitHub Repository Link: 
+GitHub Repository Link: https://github.com/Bryce-Lingle/Beuatiful-Bold-Brave
