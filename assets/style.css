@@ -139,15 +139,22 @@ img{
         flex-direction: column;
         width:100%
     }
+}
+
+@media (max-width:960px) {
+    .flexItemOne{
+        flex-direction: column;
+        width:100%
     }
+}
         
     
-    @media (max-width:1040px) {
-     .flexItemOne{
+@media (max-width:1040px) {
+    .flexItemOne{
         flex-direction: column;
         width: 100%;
      }   
-    }
+}
     
 
 .flexItemOne-inside{
@@ -219,7 +226,12 @@ img{
     }
     }
         
-    
+@media (max-width:1040px) {
+    .projectBox{
+        flex-direction: column;
+        width: 100%;
+    }   
+}   
     @media (max-width:1040px) {
      .projectBox{
         flex-direction: column;
