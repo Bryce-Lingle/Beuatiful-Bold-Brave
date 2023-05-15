@@ -292,5 +292,6 @@ button:hover{
     padding: 10px;
     margin-left: auto;
     margin-right: 30px;
+    flex: wrap;
     
 }
