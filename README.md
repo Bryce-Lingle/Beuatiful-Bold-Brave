@@ -13,6 +13,6 @@ Image
 
 
 Link
-Come see my page! 
+Come see my page! https://bryce-lingle.github.io/Beuatiful-Bold-Brave/
 
-GitHub Repository Link: https://github.com/Bryce-Lingle/Adding-Awesomeness
+GitHub Repository Link: 
