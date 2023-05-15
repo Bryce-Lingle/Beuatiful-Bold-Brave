@@ -273,3 +273,24 @@ button{
 button:hover{
     background-color:rgb(241, 237, 241) ;
 }
+
+.lets-connect{
+    color: white;
+    font-size: 30px;
+    text-decoration: underline;
+    font-weight: lighter;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    margin-top: 70px;
+}
+
+
+.contact-me-image{
+    width:100px;
+    height: 100px;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: 30px;
+    
+}
